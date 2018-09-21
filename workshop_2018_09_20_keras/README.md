@@ -12,7 +12,7 @@
 
 [slides]: ./PyData%20Bristol%20-%20Intro%20to%20Deep%20Learning%20with%20Keras%20-%20September%202018.pdf
 [starter]:  ./PyData%20Bristol%20-%20Intro%20to%20Deep%20Learning%20with%20Keras%20-%20September%202018%20-%20Starter%20code.ipynb
-[solution]:  ./pydata_bristol_03_pca_jaunius_urbonas.pdf
+[solution]: ./PyData%20Bristol%20-%20Intro%20to%20Deep%20Learning%20with%20Keras%20-%20September%202018%20-%20Solution%20code.ipynb
 
 ## Sponsors
 
