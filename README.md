@@ -5,6 +5,11 @@ Links:
 - [@PyDataBristol on Twitter][twitter]
 - [PyData Bristol YouTube Channel][youtube]
 
+## Workshops
+You can find slides and code for our workshops below:
+- [Intro to Deep Learning with Keras (20th Sep 2018)](./workshop_2018_09_20_keras)
+
+
 Schedules, slides and recordings of previous events can be found in our [PyData Bristol Meetups](https://github.com/pydatabristol/meetups) repo.
 
 ## What we are about
@@ -26,6 +31,10 @@ anyone at a PyData meetup, please contact NumFOCUS Executive Director Leah
 Silen (+1 512-222-5449; leah@numfocus.org) or the group organiser.
 
 Twitter: [@PyDataBristol][twitter]
+
+---
+
+## License
 
 <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-nc-sa/4.0/88x31.png" /></a><br />This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/">Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License</a>.
 
