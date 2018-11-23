@@ -8,6 +8,7 @@ Links:
 ## Workshops
 You can find slides and code for our workshops below:
 - [Intro to Deep Learning with Keras (20th Sep 2018)](./workshop_2018_09_20_keras)
+- [Intro to Recurrent Neural Networks (13th Nov 2018)](./workshop_2018_11_13_rnn)
 
 
 Schedules, slides and recordings of previous events can be found in our [PyData Bristol Meetups](https://github.com/pydatabristol/meetups) repo.
