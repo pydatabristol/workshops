@@ -18,7 +18,7 @@
 
 <p align="center">
   <a href="https://www.numfocus.org/"><img alt='NumFocus logo' src="../images/numfocus_logo.png" hspace="20" height="100"/></a>
-  <a href="https://www.numfocus.org/"><img alt='IBM logo' src="../images/IBM.jpg" hspace="20" height="100"/></a>
+  <a href="https://www.meetup.com/IBM-Code-Bristol/"><img alt='IBM logo' src="../images/IBM.jpg" hspace="20" height="100"/></a>
   <a href="https://www.ovoenergy.com/careers/vacancies"><img alt='ovo energy logo' src="../images/ovo_energy_logo.jpg" hspace="20" height="100"/></a>
 </p>
 
