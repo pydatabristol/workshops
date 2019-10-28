@@ -5,9 +5,10 @@
 * **Instructor:** John Sandall
 
 ## Slides and materials
-- [Getting Started][getting-started]
+- [Getting Started][getting-started] (also available as [downloadable PDF](getting-started-pdf))
 
-[getting-started]:  ./PyData%20Bristol%20-%20First%20Steps%20with%20Python%20-%20October%202019%20-%20Getting%20Started.pdf
+[getting-started]:  ./PyData%20Bristol%20-%20First%20Steps%20with%20Python%20-%20October%202019%20-%20Getting%20Started.ipynb
+[getting-started-pdf]:  ./PyData%20Bristol%20-%20First%20Steps%20with%20Python%20-%20October%202019%20-%20Getting%20Started.pdf
 
 ## Sponsors
 
