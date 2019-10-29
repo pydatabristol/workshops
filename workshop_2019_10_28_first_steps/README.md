@@ -7,10 +7,12 @@
 ## Slides and materials
 - [Getting Started][getting-started] (also available as [downloadable PDF](getting-started-pdf))
 - [Starter Code][starter-code]
+- [Solution Code][solution-code]
 
 [getting-started]:  ./PyData%20Bristol%20-%20First%20Steps%20with%20Python%20-%20October%202019%20-%20Getting%20Started.ipynb
 [getting-started-pdf]:  ./PyData%20Bristol%20-%20First%20Steps%20with%20Python%20-%20October%202019%20-%20Getting%20Started.pdf
-[starter-code]: ./PyData%20Bristol%20-%20First%20Steps%20with%20Python%20-%20October%202019%20-%20Starter%20Code.pdf
+[starter-code]: ./PyData%20Bristol%20-%20First%20Steps%20with%20Python%20-%20October%202019%20-%20Starter%20Code.ipynb
+[solution-code]: ./PyData%20Bristol%20-%20First%20Steps%20with%20Python%20-%20October%202019%20-%20Solution%20Code.ipynb
 
 ## Sponsors
 
