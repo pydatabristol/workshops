@@ -13,8 +13,8 @@
 [getting-started]:  ./PyData%20Bristol%20-%20First%20Steps%20with%20Python%20-%20October%202019%20-%20Getting%20Started.ipynb
 [getting-started-pdf]:  ./PyData%20Bristol%20-%20First%20Steps%20with%20Python%20-%20October%202019%20-%20Getting%20Started.pdf
 [slides]:  ./PyData%20Bristol%20-%20First%20Steps%20with%20Python%20-%20October%202019%20-%20Slides.pdf
-[starter-code]: ./PyData%20Bristol%20-%20First%20Steps%20with%20Python%20-%20October%202019%20-%20Starter%20Code.ipynb
-[solution-code]: ./PyData%20Bristol%20-%20First%20Steps%20with%20Python%20-%20October%202019%20-%20Solution%20Code.ipynb
+[starter-code]: ./PyData%20Bristol%20-%20First%20Steps%20with%20Python%20-%20October%202019%20-%20Starter%20code.ipynb
+[solution-code]: ./PyData%20Bristol%20-%20First%20Steps%20with%20Python%20-%20October%202019%20-%20Solution%20code.ipynb
 
 ## Sponsors
 
