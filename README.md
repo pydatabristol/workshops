@@ -9,6 +9,9 @@ Links:
 You can find slides and code for our workshops below:
 - [Intro to Deep Learning with Keras (20th Sep 2018)](./workshop_2018_09_20_keras)
 - [Intro to Recurrent Neural Networks (13th Nov 2018)](./workshop_2018_11_13_rnn)
+- [First Steps with Python (28th Oct 2019)](./workshop_2019_10_28_first_steps)
+- [Introduction to Python (23rd Jan 2020)](./workshop_2020_01_23_intro_to_python)
+- [First Steps with pandas (27th Feb 2020)](./workshop_2020_02_27_first_steps_with_pandas)
 
 
 Schedules, slides and recordings of previous events can be found in our [PyData Bristol Meetups](https://github.com/pydatabristol/meetups) repo.
@@ -39,6 +42,7 @@ Twitter: [@PyDataBristol][twitter]
 
 <p align="center">
   <a href="https://www.numfocus.org/"><img alt='NumFocus logo' src="../images/numfocus_logo.png" hspace="20" height="100"/></a>
+  <a href="https://coefficient.ai"><img alt='Coefficient logo' src="../images/coefficient.jpg" hspace="20" height="100"/></a>
   <a href="https://www.meetup.com/IBM-Code-Bristol/"><img alt='IBM logo' src="../images/IBM.jpg" hspace="20" height="100"/></a>
   <a href="https://www.ovoenergy.com/careers/vacancies"><img alt='ovo energy logo' src="../images/ovo_energy_logo.jpg" hspace="20" height="100"/></a>
 </p>
