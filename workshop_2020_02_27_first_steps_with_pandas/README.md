@@ -11,7 +11,7 @@
 
 <p align="center">
   <a href="https://www.numfocus.org/"><img alt='NumFocus logo' src="../images/numfocus_logo.png" hspace="20" height="100"/></a>
-  <a href="https://coefficient.ai/"><img alt='Coefficient logo' src="../images/coefficient.png" hspace="20" height="100"/></a>
+  <a href="https://coefficient.ai/"><img alt='Coefficient logo' src="../images/coefficient.png" hspace="20" height="60"/></a>
   <a href="https://www.ovoenergy.com/careers/vacancies"><img alt='ovo energy logo' src="../images/ovo_energy_logo.jpg" hspace="20" height="100"/></a>
 </p>
 
